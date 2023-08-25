@@ -1,0 +1,15 @@
+Instruções de compilação:
+
+1. Para iniciar o servidor, compilar o arquivo server.py (python server.py)
+2. Para iniciar o cliente 1, compilar o arquivo client.py (python client.py)
+3. Para iniciar o cliente 2, compilar o arquivo client.py em um segundo terminal (python client.py)
+
+A mesma regra vale para a versão MVP (básica, sem interface gráfica).
+
+1. Para iniciar o servidor, compilar o arquivo server.py (python servermvp.py)
+2. Para iniciar o cliente 1, compilar o arquivo client.py (python clientmvp.py)
+3. Para iniciar o cliente 2, compilar o arquivo client.py em um segundo terminal (python clientmvp.py)
+
+Importante:
+
+É necessário obter a biblioteca tkinter com o comando "pip install tk" para que a versão com interface gráfica possa funcionar. (mais informações em https://www.tutorialspoint.com/how-to-install-tkinter-in-python)
